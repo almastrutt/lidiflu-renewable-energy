@@ -1,0 +1,46 @@
+ Product 1.
+       product name: Solar Panel 
+  
+       Description:  
+      
+      We are selling quality solar panel products.
+      This particular solar panel is suitable for small domestic
+      houses and can produce enough power to keep the house runing.
+      It stores enough power to meet backup energy needs for up to one week.
+      
+      price:  450.00
+  
+      image_path: solarpanel.png
+  
+  
+Product 2.
+        name:   KW3 Wind Turbine
+        
+        Description:
+        
+        This KW3 is the smallest wind turbine available to purchase 
+        in our wind range. It is suited for remote access sites, small domestic
+        properties, off-grid applications and also light industrial and farming.
+        
+         Price:  650.99
+        iamge_path:   windturbine.jpg
+        
+        
+        
+Product 3
+
+         name: Battery Solutions for wind
+         
+         
+         Description:
+         
+          Our Energy Store Battery Solutions is the ideal solution for those in areas 
+          with weak grid infrastructure or renewable energy systems owners wanting to
+          maximise their use of energy generated on-site by a wind turbine or solar PV.
+         
+         
+         Price:  975.85
+         
+         image_path: batterysolution.jpg
+        
+  

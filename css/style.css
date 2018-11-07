@@ -1,0 +1,662 @@
+
+
+
+/*-----Style for the header.php------------*/
+
+header 
+    {
+    clear: both;
+    background-color:rgb(37,179,126);
+    height: 150px;
+    }
+    
+.header3
+    {
+    float: right;
+    border-radius: 100%;
+    line-height: 35px;
+    margin: 10px 20px 0px 5px;
+    text-align: center;
+    color: white;
+    
+    }
+    
+.cart-text
+    {
+    font-size: 12px;
+    color: white;
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: rgb(37,179,126);
+    }
+    
+
+i.fa
+    {
+    border-radius: 100%;
+    font-size: 25px;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    margin: 10px 5px 0px 5px;
+    text-align: center;
+    background-color: rgb(231,83,0);
+    border: 1px solid white;
+    color: white;
+    
+    }
+
+i.fa:hover 
+    {
+    color: rgb(115,40,0);
+    }
+
+
+    
+.socialmedialogos 
+    {
+    background-color: rgb(37,179,126);
+    height: 70px;
+    padding: 2px;
+    } 
+    
+    
+.logogroup a
+    {
+    color: rgb(37,179,126);
+    float: right;
+    height: auto;
+    width: auto;
+    margin-right: 15px;
+    }
+    
+    
+
+#h1banner {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;    
+    color: black;
+    margin: 0px 0px -20px 80px;
+    font-weight: 400;
+    font-size: 3vw;
+    }
+
+#h2banner {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-size: 18px;
+    font-style: normal;    
+    margin:10px 0px 0px 60px;
+    font-weight: 400;
+    float: right;
+    color:rgb(115, 118, 126);
+    color: hsla(20, 0%, 60%, 20);
+    width: auto;
+    margin-right: 20px;
+}
+
+
+#logo
+    {
+        display: inline-block;
+        margin: 0px 0px 0px 20px;
+    }
+    
+#logo img
+    {
+        width: 600px;
+    } 
+
+
+
+/*---------------nav.php--------------*/
+nav {
+    clear: both; /* Clear any floats */
+}
+
+nav ul {
+    list-style-type: none; /* Set the list style type to none */
+    line-height: 25px; /* Set the line height to 25 pixels */
+    font-size: 12px; /* Set the font height to 14 pixels */
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 600; 
+    margin: 0; /* Set the margins to zero */
+    padding: 0; /* Set the padding to zero */
+    overflow: hidden; /* If there is any overflow of text it will be hidden */
+    color: rgb(39,113,161);
+}
+
+nav li {
+    float: left; /* Float the list items to the left */
+}
+
+nav li a {
+    display: block; /* Set the anchors to block */
+    text-align: right; /*centre the text within the block */
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    padding: 10px 10px; /* Set the padding */
+    text-decoration: none; /* remove the underline from the hyperlink */
+    color: rgb(39,113,161);
+    margin-right: 10px;
+
+}
+
+nav li a:hover {
+    color: rgb(231,83,0);
+    font-weight:bolder;
+}
+
+/*-------------end of nav.php--------------*/
+
+
+
+/*-------Style for the body page --------*/
+
+*{
+    box-sizing: border-box;
+}
+
+
+p {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 300;    
+    font-size: smaller;
+}
+
+h1 {
+    margin-left: 80px;
+    padding-top: 20px;
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 300;    
+    font-size: 60px;
+    color:rgb(115, 118, 126);
+    color: hsla(20, 0%, 60%, 20);
+    border-top: solid 3px rgb(96,149,187);
+    }
+    
+/*    border-bottom: solid 2px #8FBC8F;--------------this puts a line under the heading----*/
+    
+    
+h2 {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: gray;
+    margin:0px 25px 30px 0px;
+    font-size:14px;
+    text-align:right;
+    text-decoration: none;
+}
+
+h3 {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb(37,179,126);
+    margin:10px 170px 10px 0px;
+    font-size:20px;
+}
+
+h4.item-name {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;    
+}
+
+
+h5 {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: black;
+    margin:10px 170px 10px 80px;
+    font-size:20px;
+    text-align: right;
+}
+
+h6 {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;    
+}
+
+
+.size{
+    
+    width:100px;
+}
+
+/*------ Index page -----*/
+
+
+
+/*-----------------------------slideshow----------------------*/
+
+.fling-minislide {
+    width:100%; 
+    padding-bottom:50%;
+    margin-left: 0px;
+    padding-top:50px;
+    margin-bottom: 10px;
+    overflow:hidden; 
+    position:relative; 
+}
+
+
+.fling-minislide img{ 
+    position:absolute; 
+    animation:fling-minislide 20s infinite; 
+    opacity:0; 
+    width: 100%; 
+    height: 100%;
+}
+
+@keyframes fling-minislide {
+    25%
+    {opacity:1;} 40%{opacity:0;}
+} 
+
+.fling-minislide img:nth-child(4){
+    animation-delay:0s;
+}
+
+.fling-minislide img:nth-child(3){
+    animation-delay:5s;
+}
+
+.fling-minislide img:nth-child(2){
+    animation-delay:10s;
+}
+
+.fling-minislide img:nth-child(1){
+    animation-delay:15s;
+}
+
+
+/*----end of slideshow----*/
+
+
+/*----------------columns of text----------*/
+
+.column {
+    float: left;
+    padding: 60px;
+    width: 33.33%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left:0px;
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    text-align: justify;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*-----responsive layout if screen is less than 600px colunms stack on top of each other-----*/
+
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+/*------end of columns of text-------------*/
+
+
+
+.icons
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+.solar_icon /*---idicating the hyperlink to the solar_panel page----*/
+    {
+      opacity: 1;
+      -webkit-transition: .3s ease-in-out;
+      transition: .3s ease-in-out;
+    }
+
+.solar_icon:hover img 
+    {
+  opacity: .5;
+    }
+
+        
+figure
+    {
+        width: 33.3%;
+        float: left;
+    }
+    
+figure img
+    {
+
+        width: 150px;
+        height: 150px;
+        border: none;
+    
+    }
+
+/*------Styles for Solar Panels page----------*/
+.fling-minislide-solar{
+    width:100%; 
+    padding-bottom:50%;
+    margin-left: 0px;
+    padding-top:50px;
+    margin-bottom: 10px;
+    overflow:hidden; 
+    position:relative; 
+    
+}
+
+.fling-minislide-solar img{ 
+    position:absolute; 
+    animation:fling-minislide 20s infinite; 
+    opacity:0; 
+    width: 100%; 
+    height: 100%;
+}
+
+@keyframes fling-minislide-solar {
+    25%
+    {opacity:1;} 40%{opacity:0;}
+} 
+
+.fling-minislide-solar img:nth-child(4){
+    animation-delay:0s;
+}
+
+.fling-minislide-solar img:nth-child(3){
+    animation-delay:5s;
+}
+
+.fling-minislide-solar img:nth-child(2){
+    animation-delay:10s;
+}
+
+.fling-minislide-solar img:nth-child(1){
+    animation-delay:15s;
+}
+
+
+
+.solar-panels-text{
+        position: absolute;
+        top: 8px;
+        margin-left: 80px;
+        padding-top: 60px;
+        font-family: jaf-bernina-sans, sans-serif;
+        font-style: normal;
+        font-weight: 500;    
+        font-size: 120px;
+        color:rgb(214, 216, 218);
+}
+
+/*------ Styles for the product page (see website placeholder.com)-----*/
+
+
+
+.wrapper {
+     padding: 0;
+     margin: 0 auto;
+     width: 100%;
+   
+}
+
+article{
+    display: flex;
+    justify-content:space-between;
+    width: 100%;
+}
+.flex-item {
+    background-color: white;
+}
+.first-item {
+    padding-left: 80px;
+    padding-right: 40px;
+}
+
+
+.first-item > h6 {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color: rgb(231,83,0);
+    font-size:14px;
+    height: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    float: left;
+}
+
+.first-item > h4 {
+    font-family: jaf-bernina-sans, sans-serif;
+}
+
+
+.first-item > p {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    font-size:14px;
+    
+}
+
+.add-to-cart {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    display: inline-block;
+    background-color: rgb(37,179,126);
+    font-family: jaf-bernina-sans, sans-serif;
+    font-size: 12px;
+    width: 50px;
+    text-align: center;
+    color: white;
+    float: right;
+    
+    
+}    
+.second-item {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+}
+
+.second-item > img {
+    
+    width: 350px;
+    height: 160px;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow:0px 5px 5px grey;
+}
+    
+.item_price {
+    font-family: jaf-bernina-sans, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    font-size:14px;
+}
+
+
+/*---- buttons for admin page-------*/
+
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
+
+/*----Form styles for Sign In page-----*/
+
+label, input {
+    margin-left: 80px;
+    margin-bottom: 15px;
+    width: 380px;
+    }
+
+label {
+    font-size: 16px;
+    font-family: jaf-bernina-sans, sans-serif;
+    font-weight: 300;    
+    }
+
+
+form {
+    
+    width:  400px;
+    height: 350px;
+    margin-left: 80px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+    float: left;
+    
+    }
+
+textarea {
+    
+    width:  380px;
+    height: 100px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    }
+    
+/*=========================================================
+Contact page
+==========================================================*/    
+    
+#map {
+      width:30%;
+      height: 200px;
+
+      }    
+    
+
+/*=========================================================
+footer.php
+==========================================================*/
+footer 
+    {
+        clear: both;
+        background-color:rgb(37,179,126);
+        height:90px;
+              border-top: solid 8px rgb(37,179,126);
+    }
+    
+.compname
+    {
+    text-align: center;
+
+    }
+
+    
+
+footer #h1compname 
+    {
+    font-family: jaf-bernina-sans, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: white;
+      text-align: center;
+      margin-top: 20px;
+      padding-top: 10px;
+
+      }
+    
+
+.address
+    {
+    text-align: center;
+    padding-top: 15px;
+
+
+    }
+    
+footer #h2address
+    {
+      font-family: jaf-bernina-sans, sans-serif;  
+      font-size: 12px;
+      font-weight: 300;
+      color: white;
+      text-align: center;
+    }
+    
+footer .copyright
+    {
+        position: relative;
+    }
+    
+footer .copyright p 
+    {
+        position: absolute;
+        bottom: 30px;
+        right: 20px;
+        font-size: 10px;
+        color: white;
+        text-align: center;
+    }
+    
+footer #energylogos
+    {
+        position: relative;
+        height: 40px;
+        bottom:35px;
+
+    }
+    
+footer #energylogos img
+    {
+        position: absolute;
+        right: 20px;
+        top: 10px;
+        height: 31px;
+    }
+
+footer #energylogos img:nth-child(1)
+    {
+        right: 120px;
+        height: 32px;
+        position: absolute;
+    }
+     
+    
+/*=========================================================
+
+==========================================================*/

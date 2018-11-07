@@ -1,0 +1,114 @@
+[08-Feb-2018 15:25:37 UTC] PHP Warning:  include_once(../conf/datatbase.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 15:25:37 UTC] PHP Stack trace:
+[08-Feb-2018 15:25:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:25:37 UTC] PHP Warning:  include_once(): Failed opening '../conf/datatbase.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 15:25:37 UTC] PHP Stack trace:
+[08-Feb-2018 15:25:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:25:37 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/products/read.php on line 16
+[08-Feb-2018 15:25:37 UTC] PHP Stack trace:
+[08-Feb-2018 15:25:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:26:48 UTC] PHP Fatal error:  Call to a member function read() on a non-object in /home/ubuntu/workspace/products/read.php on line 23
+[08-Feb-2018 15:26:48 UTC] PHP Stack trace:
+[08-Feb-2018 15:26:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:33:04 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/read.php on line 9
+[08-Feb-2018 15:33:04 UTC] PHP Stack trace:
+[08-Feb-2018 15:33:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:33:04 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/read.php on line 9
+[08-Feb-2018 15:33:04 UTC] PHP Stack trace:
+[08-Feb-2018 15:33:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:33:04 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/read.php on line 17
+[08-Feb-2018 15:33:04 UTC] PHP Stack trace:
+[08-Feb-2018 15:33:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:35:35 UTC] PHP Warning:  include_once(../conf/datatbase.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 15:35:35 UTC] PHP Stack trace:
+[08-Feb-2018 15:35:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:35:35 UTC] PHP Warning:  include_once(): Failed opening '../conf/datatbase.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 15:35:35 UTC] PHP Stack trace:
+[08-Feb-2018 15:35:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:35:35 UTC] PHP Fatal error:  Class 'Database' not found in /home/ubuntu/workspace/products/read.php on line 16
+[08-Feb-2018 15:35:35 UTC] PHP Stack trace:
+[08-Feb-2018 15:35:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:36:39 UTC] PHP Fatal error:  Call to a member function read() on a non-object in /home/ubuntu/workspace/products/read.php on line 23
+[08-Feb-2018 15:36:39 UTC] PHP Stack trace:
+[08-Feb-2018 15:36:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:56:58 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 15:56:58 UTC] PHP Stack trace:
+[08-Feb-2018 15:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:56:58 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 15:56:58 UTC] PHP Stack trace:
+[08-Feb-2018 15:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 15:56:58 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/read.php on line 19
+[08-Feb-2018 15:56:58 UTC] PHP Stack trace:
+[08-Feb-2018 15:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 16:03:00 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 16:03:00 UTC] PHP Stack trace:
+[08-Feb-2018 16:03:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 16:03:00 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/read.php on line 10
+[08-Feb-2018 16:03:00 UTC] PHP Stack trace:
+[08-Feb-2018 16:03:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[08-Feb-2018 16:03:00 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/read.php on line 19
+[08-Feb-2018 16:03:00 UTC] PHP Stack trace:
+[08-Feb-2018 16:03:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/read.php:0
+[19-Apr-2018 12:40:57 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/readone.php on line 10
+[19-Apr-2018 12:40:57 UTC] PHP Stack trace:
+[19-Apr-2018 12:40:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/readone.php:0
+[19-Apr-2018 12:40:57 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/readone.php on line 10
+[19-Apr-2018 12:40:57 UTC] PHP Stack trace:
+[19-Apr-2018 12:40:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/readone.php:0
+[19-Apr-2018 12:40:57 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/readone.php on line 17
+[19-Apr-2018 12:40:57 UTC] PHP Stack trace:
+[19-Apr-2018 12:40:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/readone.php:0
+[19-Apr-2018 12:53:27 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/readone.php on line 10
+[19-Apr-2018 12:53:27 UTC] PHP Stack trace:
+[19-Apr-2018 12:53:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/readone.php:0
+[19-Apr-2018 12:53:27 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/readone.php on line 10
+[19-Apr-2018 12:53:27 UTC] PHP Stack trace:
+[19-Apr-2018 12:53:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/readone.php:0
+[19-Apr-2018 12:53:27 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/readone.php on line 17
+[19-Apr-2018 12:53:27 UTC] PHP Stack trace:
+[19-Apr-2018 12:53:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/readone.php:0
+[19-Apr-2018 14:08:52 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/update.php on line 11
+[19-Apr-2018 14:08:52 UTC] PHP Stack trace:
+[19-Apr-2018 14:08:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/update.php:0
+[19-Apr-2018 14:08:52 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/update.php on line 11
+[19-Apr-2018 14:08:52 UTC] PHP Stack trace:
+[19-Apr-2018 14:08:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/update.php:0
+[19-Apr-2018 14:08:52 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/update.php on line 18
+[19-Apr-2018 14:08:52 UTC] PHP Stack trace:
+[19-Apr-2018 14:08:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/update.php:0
+[26-Apr-2018 12:34:54 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:34:54 UTC] PHP Stack trace:
+[26-Apr-2018 12:34:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:34:54 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:34:54 UTC] PHP Stack trace:
+[26-Apr-2018 12:34:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:34:54 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/create.php on line 9
+[26-Apr-2018 12:34:54 UTC] PHP Stack trace:
+[26-Apr-2018 12:34:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:35:31 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:35:31 UTC] PHP Stack trace:
+[26-Apr-2018 12:35:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:35:31 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:35:31 UTC] PHP Stack trace:
+[26-Apr-2018 12:35:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:35:31 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/create.php on line 9
+[26-Apr-2018 12:35:31 UTC] PHP Stack trace:
+[26-Apr-2018 12:35:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:36:58 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:36:58 UTC] PHP Stack trace:
+[26-Apr-2018 12:36:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:36:58 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:36:58 UTC] PHP Stack trace:
+[26-Apr-2018 12:36:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:36:58 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/create.php on line 9
+[26-Apr-2018 12:36:58 UTC] PHP Stack trace:
+[26-Apr-2018 12:36:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:46:29 UTC] PHP Warning:  include_once(../objects/product.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:46:29 UTC] PHP Stack trace:
+[26-Apr-2018 12:46:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:46:29 UTC] PHP Warning:  include_once(): Failed opening '../objects/product.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products/create.php on line 4
+[26-Apr-2018 12:46:29 UTC] PHP Stack trace:
+[26-Apr-2018 12:46:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
+[26-Apr-2018 12:46:29 UTC] PHP Fatal error:  Class 'Product' not found in /home/ubuntu/workspace/products/create.php on line 9
+[26-Apr-2018 12:46:29 UTC] PHP Stack trace:
+[26-Apr-2018 12:46:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/products/create.php:0
